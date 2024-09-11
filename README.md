@@ -1,1 +1,1 @@
-# ecommerce_sale_project
+# e_commerce_sale_project
